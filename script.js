@@ -74,5 +74,5 @@ function updateTestimonial(){
     }
 }
 
-setInterval(updateTestimonial, 1000);
+setInterval(updateTestimonial, 2000);
 
